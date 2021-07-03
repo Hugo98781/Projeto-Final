@@ -1,0 +1,18 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Foram utilizadas bibliotecas \"axios\", \"express\" para poder desenvolver o projeto, o projeto comten mais que \r uma rota para ter funcionamento, sendo 2 rotas para API, 1 rota para os JSON, 1 rota para tratar erros e 1 rota \r para executar o servidor.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.1",
+    "node": "^16.4.0"
+  },
+  "devDependencies": {}
+}
